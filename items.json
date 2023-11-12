@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Mario",
       "surname": "Moreno",
-      "phone": "637382736",
+      "phone": 637382736,
       "photoUrl": "https://i.ibb.co/mhbn3nQ/Mario.webp",
       "isFriend": true
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Sandra",
       "surname": "Díaz",
-      "phone": "673893809",
+      "phone": 673893809,
       "photoUrl": "https://i.ibb.co/MCy6Sxt/titanic-final.webp",
       "isFriend": false
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Andrea",
       "surname": "García",
-      "phone": "777338939",
+      "phone": 777338939,
       "photoUrl": "https://i.ibb.co/zXtB6MZ/Andrea.webp",
       "isFriend": true
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Dani",
       "surname": "Pérez",
-      "phone": "679389890",
+      "phone": 679389890,
       "photoUrl": "https://i.ibb.co/rtDwtPc/Dani.webp",
       "isFriend": false
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Albert",
       "surname": "Aguadé",
-      "phone": "637939026",
+      "phone": 637939026,
       "photoUrl": "https://i.ibb.co/ykd2z45/Albert.webp",
       "isFriend": true
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Diana",
       "surname": "González",
-      "phone": "666384849",
+      "phone": 666384849,
       "photoUrl": "https://i.ibb.co/6gPvCtt/Diana.webp",
       "isFriend": false
     }
